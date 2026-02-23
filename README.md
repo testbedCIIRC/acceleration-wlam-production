@@ -47,7 +47,7 @@ The digital twin is validated against physical WLAM builds and demonstrated on a
 [![Watch the video](https://img.youtube.com/vi/DcN99NkuZ_I/0.jpg)](https://youtu.be/DcN99NkuZ_I)
 
 ## Images
-![Printed part](https://github.com/user-attachments/assets/dc2229cf-39b6-45ea-a47b-146c428bf77c)
+![Printed part](https://github.com/user-attachments/assets/5c9727f0-f419-4eb4-8dfa-a932b07d6c8f)
 
 ## Graphical Abstract
-![Graphical Abstract](https://github.com/user-attachments/assets/e0440c7c-0fac-4f93-a6fa-64011c1783eb)
+![Graphical Abstract](https://github.com/user-attachments/assets/866217d1-a068-4540-a38f-afe9917b6594)
