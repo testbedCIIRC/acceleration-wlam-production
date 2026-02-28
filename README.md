@@ -29,7 +29,7 @@ The digital twin is validated against physical WLAM builds and demonstrated on a
 [![Watch the video](https://img.youtube.com/vi/UXpAJiS9Cwg/0.jpg)](https://youtu.be/UXpAJiS9Cwg)
 
 ## KDDM Omniverse GUI and Simulation Settings ##
-[![Watch the video](https://img.youtube.com/vi/UXpAJiS9Cwg/0.jpg)](https://youtu.be/UXpAJiS9Cwg)
+[![Watch the video](https://img.youtube.com/vi/7ZfzKxEnnqw/0.jpg)](https://youtu.be/7ZfzKxEnnqw)
 
 ## MPDM Omniverse GUI and Simulation Settings ##
 [![Watch the video](https://img.youtube.com/vi/SR7zOOnuDdE/0.jpg)](https://youtu.be/SR7zOOnuDdE)
